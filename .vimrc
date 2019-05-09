@@ -125,6 +125,10 @@ Plug 'nelstrom/vim-textobj-rubyblock'
 " JAVASCRIPT
 "************
 
+Plug 'mlaursen/vim-react-snippets'
+Plug 'maxmellon/vim-jsx-pretty'
+Plug 'mxw/vim-jsx'
+Plug 'bentayloruk/vim-react-es6-snippets'
 Plug 'pangloss/vim-javascript'
 Plug 'posva/vim-vue'
 Plug 'digitaltoad/vim-pug'
